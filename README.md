@@ -43,4 +43,4 @@
 
 <h2> My GitHub Stats </h2>
 
-![Metrics](https://metrics.lecoq.io/trkyshorty?template=classic&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/trkyshorty?template=terminal&config.timezone=Europe%2FIstanbul)
