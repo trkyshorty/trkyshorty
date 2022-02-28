@@ -23,11 +23,11 @@
 <a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+  <a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://cdn.cdnlogo.com/logos/c/27/c.svg'> </a>
 <a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=mariadb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg'> </a>
-<a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+<a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://cdn.cdnlogo.com/logos/m/10/mysql.svg'> </a>
+<a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://cdn.cdnlogo.com/logos/p/71/php.svg'> </a>
 <a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
 <a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
 <a href= https://github.com/trkyshorty?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
@@ -37,7 +37,8 @@
 
 
 <h2> Connect with me </h2>
-<a href = 'https://www.github.com/trkyshorty'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+    <a href = 'https://discord.gg/MPc28g7gfb'> <img width = '32px' align= 'center' src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"/></a> 
+
 
 
 
