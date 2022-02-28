@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Javascipt, Vue.js 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles
+- 👯 I’m looking to collaborate on Projects, Tech Articles
 
 - 💬 Talk to me about JavaScript , C#, C++ and Online Games 
 
