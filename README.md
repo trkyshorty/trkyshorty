@@ -37,7 +37,7 @@
 
 
 <h2> Connect with me </h2>
-    <a href = 'https://discord.gg/MPc28g7gfb'> <img width = '32px' align= 'center' src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"/></a> 
+    <a href = 'https://discord.gg/pks4MHRq7Y'> <img width = '32px' align= 'center' src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"/></a> 
 
 
 
